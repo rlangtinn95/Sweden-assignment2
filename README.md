@@ -3,3 +3,4 @@ This is a repo for our course in CSS Advanced at NTNU Gjøvik.
 halla
 halla
 hei folkens
+ser dere kommentaren min?
